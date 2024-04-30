@@ -1,2 +1,2 @@
-# HealthCare-ChatBot-Using-Artificial-Intelligence
-Major Project 
+# healthcare-chatbot
+Chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
